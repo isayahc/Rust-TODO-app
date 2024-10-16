@@ -5,7 +5,7 @@ This is an example of how you can use Shuttle with Axum, Askama and htmx to crea
 The app is a TODO list with a main page and an event stream page.
 
 # Screenshot
-<img src="https://github.com/user-attachments/assets/ea712b14-78b2-41c8-838d-e8cdb8208bae" width="500" alt="Screenshot of the TODO app">
+<img src="https://github.com/user-attachments/assets/30b3a619-c3c0-4572-8888-d3b2712ef44d" width="500" alt="Screenshot of the TODO app">
 
 
 ## Usage
